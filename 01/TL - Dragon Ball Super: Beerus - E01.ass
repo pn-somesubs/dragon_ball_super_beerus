@@ -1,0 +1,248 @@
+[Script Info]
+Title: pn-SomeSubs - Dragon Ball Super: Beerus
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.709
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Default,,0,0,0,,{\fs15\an7\fe162\b\fad(400,400)\bord6\blur6\shad\4c&H000000&\4a&HFF&}\N\N{\pos(20,-6)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(180,189)}{\c&HFFFFFF&}Çevirmen:{\c&0000000&\3c&HFFFFFF&} The_Ghost01\N {\pos(180,333)\3c&H000000&}{\c&HFFFFFF&}Encode: V{\c&HE6E6E6&}e{\c&HCDCDCD&}l{\c&HB4B4B4&}n{\c&H9B9B9B&}o{\c&H828282&}x{\c&H696969&}y\N{\pos(180,333)\3c&H000000&\3a&H00&}{\c&HFFFFFF&}Redaktör: V{\c&HE6E6E6&}e{\c&HCDCDCD&}l{\c&HB4B4B4&}n{\c&H9B9B9B&}o{\c&H828282&}x{\c&H696969&}y\N{\c&HFFFFFF&\3c&H000000&\3a&H00&}{\c&HFFFFFF&} Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:00:15.02,0:00:16.77,Default,,0,0,0,,{\i1}Şimdi{\i}
+Dialogue: 0,0:00:16.93,0:00:18.89,Default,,0,0,0,,{\i1}Asla kaybetme!\NKaybetmem{\i}
+Dialogue: 0,0:00:19.06,0:00:21.27,Default,,0,0,0,,{\i1}"Sadece biraz daha" dedim{\i}
+Dialogue: 0,0:00:21.44,0:00:25.19,Default,,0,0,0,,{\i1}Umutlarımı ve yumruklarımı savuruyorum{\i}
+Dialogue: 0,0:00:25.36,0:00:27.82,Default,,0,0,0,,{\i1}Başkasının gücü değil{\i}
+Dialogue: 0,0:00:27.99,0:00:30.57,Default,,0,0,0,,{\i1}Kendine inan{\i}
+Dialogue: 0,0:00:42.29,0:00:47.59,Default,,0,0,0,,{\i1}Güç ile gücün karşılaşması{\i}
+Dialogue: 0,0:00:47.76,0:00:51.68,Default,,0,0,0,,{\i1}Hep okyanusları ve gökyüzünü aşmıştır{\i}
+Dialogue: 0,0:00:51.84,0:00:53.89,Default,,0,0,0,,{\i1}Uzayın derinliklerine{\i}
+Dialogue: 0,0:00:54.05,0:00:56.52,Default,,0,0,0,,{\i1}Sonuna kadar ön saflara gidin{\i}
+Dialogue: 0,0:00:56.68,0:00:58.89,Default,,0,0,0,,{\i1}En büyük vuruşunuzla{\i}
+Dialogue: 0,0:00:59.06,0:01:02.06,Default,,0,0,0,,{\i1}Her zaman son gücünüzle{\i}
+Dialogue: 0,0:01:03.44,0:01:07.36,Default,,0,0,0,,{\i1}Kaybetmem- Kazanırım!{\i}
+Dialogue: 0,0:01:07.53,0:01:09.74,Default,,0,0,0,,{\i1}Evet nanana{\i}
+Dialogue: 0,0:01:09.90,0:01:13.41,Default,,0,0,0,,{{\i1}Pekala, hadi son  \Nhamlemize başlayalım!{\i}
+Dialogue: 0,0:01:13.57,0:01:15.78,Default,,0,0,0,,{\i1}Yüce savaşçı, gözüpek{\i}
+Dialogue: 0,0:01:15.95,0:01:19.33,Default,,0,0,0,,{\i1}Gücüme inanıyorum{\i}
+Dialogue: 0,0:01:19.50,0:01:21.21,Default,,0,0,0,,{\i1}Şimdi{\i}
+Dialogue: 0,0:01:21.37,0:01:23.21,Default,,0,0,0,,{\i1}Asla kaybetme!\NKaybetmem{\i}
+Dialogue: 0,0:01:23.42,0:01:25.71,Default,,0,0,0,,{\i1}"Sadece biraz daha" dedim{\i}
+Dialogue: 0,0:01:25.88,0:01:29.80,Default,,0,0,0,,{\i1}Umutlarımı ve yumruklarımı savuruyorum{\i}
+Dialogue: 0,0:01:29.97,0:01:32.18,Default,,0,0,0,,{\i1}Şu ana kadarki bütün çabalarım{\i}
+Dialogue: 0,0:01:32.34,0:01:34.64,Default,,0,0,0,,{\i1}Ve hayal kırıklıklarım bana güç verdi{\i}
+Dialogue: 0,0:01:34.80,0:01:36.97,Default,,0,0,0,,{\i1}Başkasının gücü değil{\i}
+Dialogue: 0,0:01:37.14,0:01:40.10,Default,,0,0,0,,{\i1}Kendine inan{\i}
+Dialogue: 0,0:02:16.97,0:02:19.68,On Top,,0,0,0,,YOK EDEN TANRI
+Dialogue: 0,0:02:38.91,0:02:40.83,Default,,0,0,0,,Baba!
+Dialogue: 0,0:02:41.50,0:02:43.00,Default,,0,0,0,,Yemeğin hazır.
+Dialogue: 0,0:02:43.91,0:02:47.29,Default,,0,0,0,,Ah, Goten!\NOkul çoktan bitti mi ki?
+Dialogue: 0,0:02:47.46,0:02:49.46,Default,,0,0,0,,Bugün Pazar.
+Dialogue: 0,0:02:49.63,0:02:51.25,Default,,0,0,0,,Yani boşsun?!
+Dialogue: 0,0:02:52.67,0:02:55.30,Default,,0,0,0,,Benim yerime biraz da sen sür o zaman.
+Dialogue: 0,0:02:55.47,0:02:56.72,Default,,0,0,0,,Tabii...
+Dialogue: 0,0:02:57.68,0:02:59.39,Default,,0,0,0,,Gömülelim o zaman.
+Dialogue: 0,0:03:09.44,0:03:11.15,Default,,0,0,0,,Harbi lezizdi!\NDoydum!
+Dialogue: 0,0:03:11.32,0:03:12.32,Default,,0,0,0,,Tamamdır!
+Dialogue: 0,0:05:47.76,0:05:52.48,Default,,0,0,0,,Goten, eğer uslu durmazsan \N antremanıma odaklanamam ama.
+Dialogue: 0,0:05:53.48,0:05:55.31,Default,,0,0,0,,Sen antreman mı yapıyodun ki baba?
+Dialogue: 0,0:05:55.48,0:05:59.11,Default,,0,0,0,,Evet.\NMajin Buu fenasal güçlüydü, değil mi?
+Dialogue: 0,0:05:59.73,0:06:02.53,Default,,0,0,0,,{\i1}Tek başıma onu yenemezdim.{\i}
+Dialogue: 0,0:06:03.11,0:06:05.78,Default,,0,0,0,,Onun gibi başka biri \N yine karşıma çıkabilir.
+Dialogue: 0,0:06:05.95,0:06:08.91,Default,,0,0,0,,Bunun için hazırlıklı olmam lazım.
+Dialogue: 0,0:06:09.08,0:06:10.16,Default,,0,0,0,,Hmm...
+Dialogue: 0,0:06:11.91,0:06:13.12,Default,,0,0,0,,Doğruyu söylemem gerekirse...
+Dialogue: 0,0:06:13.29,0:06:16.17,Default,,0,0,0,,Kai-sama'nın yerinde \N antreman yapmak istiyorum,
+Dialogue: 0,0:06:16.33,0:06:18.00,Default,,0,0,0,,{\i1}ama Chichi...{\i}
+Dialogue: 0,0:06:18.17,0:06:21.30,Default,,0,0,0,,{\i1}Annem dünyadaki en güçlü kişi olmalı.{\i}
+Dialogue: 0,0:06:21.46,0:06:26.89,Default,,0,0,0,,Dede Gyumao bütün hazinesini ateşte \N kaybettiğinden beri, fazla bir parası yok.
+Dialogue: 0,0:06:27.05,0:06:32.23,Default,,0,0,0,,Ama Annem başka bir işte \N daha fazla para kazanabileceğini söyledi.
+Dialogue: 0,0:06:32.93,0:06:34.23,Default,,0,0,0,,{\i1}Bay Satan gibi.{\i}
+Dialogue: 0,0:06:38.52,0:06:42.86,Default,,0,0,0,,Kaytarmayı ve antreman yapmayı y
+Dialogue: 0,0:07:15.00,0:07:18.00,Default,,0,0,0,,{\an8}{\i1}ÇN: Adam geldi adam.{\i}
+Dialogue: 0,0:07:33.33,0:07:35.46,Default,,0,0,0,,Selamlar, Goku-san!
+Dialogue: 0,0:07:35.62,0:07:38.38,Default,,0,0,0,,Chichi-san bana sizi burada \N bulabileceğimi söyledi.
+Dialogue: 0,0:07:38.54,0:07:39.92,Default,,0,0,0,,Bay Satan!
+Dialogue: 0,0:07:40.09,0:07:44.46,Default,,0,0,0,,Gohan için bu kadar büyük bir \N ev inşa ettiğiniz için sağolun.
+Dialogue: 0,0:07:44.63,0:07:49.18,Default,,0,0,0,,Hiç önemli değil.\NVidel benim kızım sonuçta.
+Dialogue: 0,0:07:49.55,0:07:53.85,Default,,0,0,0,,Bu arada, öğlen \N haberlerini gördün mü?
+Dialogue: 0,0:07:54.02,0:07:55.93,Default,,0,0,0,,Yok. Ne oldu ki?
+Dialogue: 0,0:07:56.10,0:07:59.35,Default,,0,0,0,,Gerçekten mi? Aslında...
+Dialogue: 0,0:07:59.52,0:08:04.32,Default,,0,0,0,,Dünya Barış Ödülü'ne layık görüldüm...
+Dialogue: 0,0:08:04.48,0:08:05.65,Default,,0,0,0,,Dünya...?
+Dialogue: 0,0:08:05.82,0:08:10.12,Default,,0,0,0,,Çünkü, bilirsin,\N Dünyayı kurtarıp durdum...
+Dialogue: 0,0:08:10.28,0:08:15.25,Default,,0,0,0,,Bende özel bir hediye aldım.\N100 milyon Zeni.
+Dialogue: 0,0:08:15.41,0:08:18.87,Default,,0,0,0,,{\i1}Ama bu para tamamen senin.{\i}
+Dialogue: 0,0:08:19.04,0:08:21.58,Default,,0,0,0,,Yanlız savaşmadım.
+Dialogue: 0,0:08:21.75,0:08:24.96,Default,,0,0,0,,{\i1}Sende olabilidiğince savaştın.{\i}
+Dialogue: 0,0:08:25.13,0:08:27.30,Default,,0,0,0,,Ama ben zaten zenginim.
+Dialogue: 0,0:08:27.84,0:08:30.18,Default,,0,0,0,,Vegeta-san'da bana sırtını döndü zaten.
+Dialogue: 0,0:08:30.55,0:08:33.51,Default,,0,0,0,,Yani, ne de olsa dünyanın en \N zengin ailesinin bir parçası.
+Dialogue: 0,0:08:33.68,0:08:38.44,Default,,0,0,0,,Söylesene, 100 milyonda \N kaç tane 100,000 Zeni var?
+Dialogue: 0,0:08:38.60,0:08:43.86,Default,,0,0,0,,Ne? 100,000 Zeni mi?\NBir bakalım... Bin tane.
+Dialogue: 0,0:08:44.02,0:08:47.15,Default,,0,0,0,,Bin tane mi?!\NBin tane 100,000 Zeni?
+Dialogue: 0,0:08:47.32,0:08:50.99,Default,,0,0,0,,Gerçekten lazım değil.\NBu çok fazla miktarda bir para.
+Dialogue: 0,0:08:51.16,0:08:52.49,Default,,0,0,0,,Bence almalısın.
+Dialogue: 0,0:08:53.58,0:08:59.46,Default,,0,0,0,,Eğer alırsan, eminim ki Annem sana Kai-sama'larda antreman yapmana izin verir.
+Dialogue: 0,0:08:59.62,0:09:00.92,Default,,0,0,0,,Harbiden mi?
+Dialogue: 0,0:09:02.54,0:09:04.09,Default,,0,0,0,,Ama...
+Dialogue: 0,0:09:09.55,0:09:11.05,Default,,0,0,0,,Peki, anladım!
+Dialogue: 0,0:09:11.59,0:09:14.30,Default,,0,0,0,,O zaman kabul ediyorum!\NAma bak emin misin?
+Dialogue: 0,0:09:15.68,0:09:16.68,Default,,0,0,0,,O halde...
+Dialogue: 0,0:09:17.60,0:09:18.48,Default,,0,0,0,,Sağol!
+Dialogue: 0,0:09:19.14,0:09:20.19,Default,,0,0,0,,Güzel!
+Dialogue: 0,0:09:21.02,0:09:24.44,Default,,0,0,0,,Son olarak, bunu söylediğim \N için kusura bakma ama,
+Dialogue: 0,0:09:24.61,0:09:27.61,Default,,0,0,0,,karşılığında bunu bir \N sır olarak saklamanı istiyorum.
+Dialogue: 0,0:09:28.99,0:09:31.57,Default,,0,0,0,,100 milyon Zeni mi?!
+Dialogue: 0,0:09:31.74,0:09:33.78,Default,,0,0,0,,Bu çok iyi!
+Dialogue: 0,0:09:33.95,0:09:36.58,Default,,0,0,0,,Bu kadar parayla Goten’i \N dershaneye gönderebiliriz
+Dialogue: 0,0:09:36.74,0:09:39.08,Default,,0,0,0,,ve çok fazla özel hoca tutabiliriz!
+Dialogue: 0,0:09:39.25,0:09:40.33,Default,,0,0,0,,Aferin!
+Dialogue: 0,0:09:40.50,0:09:46.42,Default,,0,0,0,,O halde, Chichi,\Nsence Kai-sama'larda antreman yapabilir miyim?
+Dialogue: 0,0:09:46.59,0:09:49.42,Default,,0,0,0,,Tabii. Ama arada bir eve gelmeyi de unutma.
+Dialogue: 0,0:09:50.76,0:09:52.22,Default,,0,0,0,,Harika!
+Dialogue: 0,0:10:26.17,0:10:28.80,Default,,0,0,0,,Ne yapıyorsunuz be?!\NAcele etsenize!
+Dialogue: 0,0:10:45.00,0:10:50.00,Default,,0,0,0,,{\an8}{\i1}ÇN: Piccolo kalk büyüğün geldi. Adam saf Aura ya...{\i}
+Dialogue: 0,0:10:55.95,0:10:59.53,Default,,0,0,0,,Bugün sürüş için mükemmel bir gün.
+Dialogue: 0,0:10:59.70,0:11:01.49,Default,,0,0,0,,Güzel ve huzurlu.
+Dialogue: 0,0:11:01.66,0:11:03.83,Default,,0,0,0,,Huzur en iyisi ya.
+Dialogue: 0,0:11:04.00,0:11:07.75,Default,,0,0,0,,Huzurdan bir parça...
+Dialogue: 0,0:11:20.81,0:11:23.10,Default,,0,0,0,,Lütfen istediğiniz kadar alın.
+Dialogue: 0,0:11:23.27,0:11:30.73,Default,,0,0,0,,Her yemek, bu gezegendeki en iyi şefler tarafından hazırlanan {\i1}très bien{\i} bir başyapıttır.
+Dialogue: 0,0:11:23.27,0:11:30.73,Default,,0,0,0,,{\an8} {\i1} ÇN: [très bien] ==> harika, çok iyi \N anlamlarına gelir. Fransızcadır.{\i}
+Dialogue: 0,0:11:30.90,0:11:32.69,Default,,0,0,0,,Öyle mi?
+Dialogue: 0,0:11:33.74,0:11:34.94,Default,,0,0,0,,Hmm...
+Dialogue: 0,0:11:40.33,0:11:41.49,Default,,0,0,0,,Terbiyenizi unutuyorsunuz.
+Dialogue: 0,0:11:41.66,0:11:42.79,Default,,0,0,0,,Bu nedir?
+Dialogue: 0,0:11:44.58,0:11:49.75,Default,,0,0,0,,Doğal olarak sterilize edilmiş, %100 organik sığır etinden yapılan bir La Planeteze!
+Dialogue: 0,0:11:49.92,0:11:55.17,Default,,0,0,0,,Bir La Pla-pra-pra?\N Ne kadar da can sıkıcı bir isim!
+Dialogue: 0,0:12:05.73,0:12:07.27,Default,,0,0,0,,Bir nevi lezzetli!
+Dialogue: 0,0:12:07.44,0:12:11.36,Default,,0,0,0,,Çok tuzlu değil, tıpkı sevdiğim gibi.
+Dialogue: 0,0:12:12.73,0:12:14.65,Default,,0,0,0,,O zaman... gezegenim hakkında...
+Dialogue: 0,0:12:14.82,0:12:16.53,Default,,0,0,0,,Ama ne dicem...
+Dialogue: 0,0:12:17.61,0:12:20.37,Default,,0,0,0,,biraz fazla yağlı.
+Dialogue: 0,0:12:20.53,0:12:24.08,Default,,0,0,0,,Sadece yarısı o zaman...
+Dialogue: 0,0:12:24.45,0:12:25.91,Default,,0,0,0,,Yarısı?
+Dialogue: 0,0:12:35.51,0:12:38.34,Default,,0,0,0,,Sorun nedir, Ata Kai-sama?
+Dialogue: 0,0:12:40.22,0:12:42.76,Default,,0,0,0,,Çay çok mu acıydı?
+Dialogue: 0,0:12:44.47,0:12:45.60,Default,,0,0,0,,Bu fena.
+Dialogue: 0,0:12:46.31,0:12:48.43,Default,,0,0,0,,Çok fena.
+Dialogue: 0,0:12:48.60,0:12:51.98,Default,,0,0,0,,{\i1}39 yıl sonra...{\i}
+Dialogue: 0,0:12:53.19,0:12:57.15,Default,,0,0,0,,{\i1}Yok Edici Tanrı Beerus-sama uyandı...{\i}
+Dialogue: 0,0:12:58.03,0:13:00.95,Default,,0,0,0,,Lezzetli olduğunu söylediğinizi sanmıştım,\NBeerus-sama.
+Dialogue: 0,0:13:01.11,0:13:05.12,Default,,0,0,0,,Çok fazla yağ sağlığın için iyi değil.
+Dialogue: 0,0:13:05.28,0:13:07.79,Default,,0,0,0,,Çok fazla yağ...
+Dialogue: 0,0:13:10.46,0:13:14.04,Default,,0,0,0,,Bir anda önümde belirmesene, salak!
+Dialogue: 0,0:13:14.21,0:13:16.17,Default,,0,0,0,,Özür, özür!
+Dialogue: 0,0:13:16.34,0:13:21.84,Default,,0,0,0,,Ama güçlerin ev veya araba  \Ngibi şeyleri kolayca tamir edebilir.
+Dialogue: 0,0:13:22.34,0:13:24.18,Default,,0,0,0,,Anlamıyorsun.
+Dialogue: 0,0:13:24.35,0:13:29.98,Default,,0,0,0,,Ellerinle bir şey tamir etmek zamanı öl... \N Yani eğlenmek için daha iyidir.
+Dialogue: 0,0:13:30.44,0:13:33.02,Default,,0,0,0,,Her neyse, sen niye buradasın, Goku?
+Dialogue: 0,0:13:33.19,0:13:34.86,Default,,0,0,0,,Buyaya...
+Dialogue: 0,0:13:35.02,0:13:38.69,Default,,0,0,0,,Ağzın dolu konuşmasana!
+Dialogue: 0,0:13:40.45,0:13:42.36,Default,,0,0,0,,Doydum!
+Dialogue: 0,0:13:42.53,0:13:44.16,Default,,0,0,0,,Neden mi buradayım?
+Dialogue: 0,0:13:44.32,0:13:46.66,Default,,0,0,0,,Antreman için, tabii.
+Dialogue: 0,0:13:46.83,0:13:50.00,Default,,0,0,0,,Senin gezegeninin yer çekimi \N dünyadan 10 kat daha fazla.
+Dialogue: 0,0:13:50.41,0:13:53.50,Default,,0,0,0,,Çalışmak için daha iyi bir yer yok.
+Dialogue: 0,0:13:55.88,0:13:59.13,Default,,0,0,0,,İlk önce o kıyafetlerini bir değiştir!
+Dialogue: 0,0:14:09.31,0:14:14.31,Default,,0,0,0,,Antreman seviyesi 1... 2... 3... 4...
+Dialogue: 0,0:14:15.52,0:14:16.52,Default,,0,0,0,,Başla!
+Dialogue: 0,0:14:36.17,0:14:37.50,Default,,0,0,0,,{\i1}Kakarot...{\i}
+Dialogue: 0,0:14:40.84,0:14:44.51,Default,,0,0,0,,{\i1}Şu ana kadar karşılaştığım en güçlü Saiyan!{\i}
+Dialogue: 0,0:14:45.18,0:14:47.10,Default,,0,0,0,,{\i1}Ama ben dinle, Kakarot...{\i}
+Dialogue: 0,0:14:47.26,0:14:52.68,Default,,0,0,0,,{\i1}Sonsuza dek ikinci sırada \N kalmaya niyetim yok!{\i}
+Dialogue: 0,0:14:52.85,0:14:55.44,Default,,0,0,0,,{\i1}Bir gün seni geçicem...{\i}
+Dialogue: 0,0:14:55.60,0:15:00.02,Default,,0,0,0,,Hayır, bu evrendeki herkesi geçicem...
+Dialogue: 0,0:15:01.19,0:15:04.57,Default,,0,0,0,,...ve en üstün dövüşçü olucam!
+Dialogue: 0,0:15:06.24,0:15:09.16,Default,,0,0,0,,Hmm... Neydi o?
+Dialogue: 0,0:15:10.58,0:15:13.12,Default,,0,0,0,,Hatırlayacak gibi olduğum an...
+Dialogue: 0,0:15:13.29,0:15:15.50,Default,,0,0,0,,aklımdan uçup gidiyor.
+Dialogue: 0,0:15:21.38,0:15:22.59,Default,,0,0,0,,Whis!
+Dialogue: 0,0:15:23.17,0:15:24.72,Default,,0,0,0,,Bitmedi mi?
+Dialogue: 0,0:16:19.48,0:16:23.36,Default,,0,0,0,,Bu dinazor eti leziz görünüyor.
+Dialogue: 0,0:16:26.07,0:16:27.36,Default,,0,0,0,,Pekala...
+Dialogue: 0,0:16:29.36,0:16:38.36,Default,,0,0,0,,{\an8}{\i1}ÇN: Kısaca burada ugabugaca konuşuyorlar, \N bende anlamadım. :D{\i}
+Dialogue: 0,0:16:57.56,0:17:00.90,Default,,0,0,0,,Beerus-sama bana sadece 3 dakika verdi.
+Dialogue: 0,0:17:01.77,0:17:04.40,Default,,0,0,0,,Ama sadece 2 dakika 20 saniye geçti.
+Dialogue: 0,0:17:05.15,0:17:10.32,Default,,0,0,0,,Gerçekten mi? Bana sanki 220 sene \N bekliyormuşum gibi geldi.
+Dialogue: 0,0:17:10.49,0:17:16.16,Default,,0,0,0,,Uyandığınızdan beri bi huysuzsunuz.\N Sorun nedir?
+Dialogue: 0,0:17:16.33,0:17:21.17,Default,,0,0,0,,Dinazor etitinin lezzetli olduğu \N sadece bir efsane.
+Dialogue: 0,0:17:21.33,0:17:24.46,Default,,0,0,0,,Yinede denemek istiyorum.
+Dialogue: 0,0:17:24.63,0:17:28.51,Default,,0,0,0,,Tadı oldukça keskin \N olur diye düşünüyorum.
+Dialogue: 0,0:17:29.76,0:17:34.97,Default,,0,0,0,,Bana rüyamdaki adamı \N görmemde yardımcı olabilir.
+Dialogue: 0,0:17:35.14,0:17:36.18,Default,,0,0,0,,Rüya mı?
+Dialogue: 0,0:17:36.35,0:17:37.93,Default,,0,0,0,,Kehanetlik bir rüyam.
+Dialogue: 0,0:17:38.10,0:17:42.10,Default,,0,0,0,,Kehanetlik rüyalarınız pek doğru \N olmuyor, değil mi?
+Dialogue: 0,0:17:42.60,0:17:48.73,Default,,0,0,0,,Mahalleye bir ünlünün taşınacağına dair son kehanet rüyanız, hiç gerçekleşmedi.
+Dialogue: 0,0:17:49.19,0:17:50.57,Default,,0,0,0,,Benle dalga geçiyorsun.
+Dialogue: 0,0:18:25.52,0:18:27.19,Default,,0,0,0,,Çok sıkıcısın.
+Dialogue: 0,0:18:35.45,0:18:36.49,Default,,0,0,0,,Aman aman.
+Dialogue: 0,0:18:43.66,0:18:44.96,Default,,0,0,0,,Aynen iadesi yapıldı.
+Dialogue: 0,0:18:51.67,0:18:52.84,Default,,0,0,0,,Bitirdiniz mi?
+Dialogue: 0,0:18:53.22,0:18:56.43,Default,,0,0,0,,Görgüsü olmayanlar insanlardan nefret ederim.
+Dialogue: 0,0:18:56.59,0:18:59.22,Default,,0,0,0,,Şimdi, ne diyordum?
+Dialogue: 0,0:18:59.76,0:19:02.43,Default,,0,0,0,,Rüyanızda gördüğünüz ama sonra \N unuttuğunuz kişi hakkında.
+Dialogue: 0,0:19:02.60,0:19:06.02,Default,,0,0,0,,Doğru. Neredeyse hatırlıyacağım.
+Dialogue: 0,0:19:06.52,0:19:12.53,Default,,0,0,0,,Çok rahatsız edici hissettiriyor.\N Sanki arka dişime bir şey sıkışmış gibi.
+Dialogue: 0,0:19:12.69,0:19:16.99,Default,,0,0,0,,Sanki kulak kirim derinliklerde \N sürekli hışırtı yapıyormuş gibi.
+Dialogue: 0,0:19:12.69,0:19:16.99,Default,,0,0,0,,{\an8}{\i1} ÇN: O nasıl bir benzetme amk. İğrenç...{\i}
+Dialogue: 0,0:19:17.16,0:19:19.20,Default,,0,0,0,,Anladın değil mi? Değil mi?!
+Dialogue: 0,0:19:19.91,0:19:23.37,Default,,0,0,0,,Beerus-sama, dinazor eti \N ile ne yapmamız gerek?
+Dialogue: 0,0:19:24.96,0:19:28.63,Default,,0,0,0,,İstemiyorum.\N Leziz gibi falanda görünmüyor.
+Dialogue: 0,0:20:17.09,0:20:19.93,Default,,0,0,0,,Durum oldukça kasvetli hale geldi,
+Dialogue: 0,0:20:20.39,0:20:24.85,Default,,0,0,0,,ama gezegenlerin patlayışını izlemek \N her zaman iyi hissettirmiştir.
+Dialogue: 0,0:20:28.10,0:20:32.11,Default,,0,0,0,,Gerçekten de dinazor etini istemediniz mi?
+Dialogue: 0,0:20:36.28,0:20:37.78,Default,,0,0,0,,İhtiyacım yok.
+Dialogue: 0,0:20:38.36,0:20:39.91,Default,,0,0,0,,Demek istediğiniz...?
+Dialogue: 0,0:20:40.78,0:20:47.75,Default,,0,0,0,,Evet. Bu büyük patlama \N hatırlamama yardımcı oldu.
+Dialogue: 0,0:20:57.97,0:21:01.51,Default,,0,0,0,,Hiç kimsenin daha önce görmediği, \N eşsiz bir savaşçı.
+Dialogue: 0,0:21:01.68,0:21:05.18,Default,,0,0,0,,Beni eğlendirecek, olağanüstü birisi.
+Dialogue: 0,0:21:05.97,0:21:08.18,Default,,0,0,0,,Onun ismi...
+Dialogue: 0,0:21:08.93,0:21:11.02,Default,,0,0,0,,Onun ismi...?
+Dialogue: 0,0:21:12.65,0:21:14.06,Default,,0,0,0,,Neydi ki?
+Dialogue: 0,0:21:15.48,0:21:19.57,Default,,0,0,0,,Süper... Süper... Süper...
+Dialogue: 0,0:21:20.78,0:21:23.28,Default,,0,0,0,,Süper Saiyan Tanrı!
+Dialogue: 0,0:21:23.45,0:21:26.87,Default,,0,0,0,,Süper Saiyan... Tanrı?
+Dialogue: 0,0:21:27.04,0:21:27.83,Default,,0,0,0,,Ha?
+Dialogue: 0,0:21:28.29,0:21:31.37,Default,,0,0,0,,Vay... vay...
+Dialogue: 0,0:21:31.54,0:21:34.63,Default,,0,0,0,,Belki. Belki değil.
+Dialogue: 0,0:21:34.79,0:21:36.13,Default,,0,0,0,,Hadi bakalım...
+Dialogue: 0,0:21:36.63,0:21:40.47,Default,,0,0,0,,Kalede akşam yemeği yerken \N hatırlamaya çalışırsınız artık.
+Dialogue: 0,0:21:40.63,0:21:42.05,Default,,0,0,0,,İyi fikir.
+Dialogue: 0,0:21:42.51,0:21:43.47,Default,,0,0,0,,Tamam o zaman.
+Dialogue: 0,0:22:16.09,0:22:17.50,Default,,0,0,0,,{\i1}Bir şampiyonun yüzü{\i}
+Dialogue: 0,0:22:17.67,0:22:19.34,Default,,0,0,0,,{\i1}Hâlâ dayanıyor, sınırda{\i}
+Dialogue: 0,0:22:19.51,0:22:21.38,Default,,0,0,0,,{\i1}Havada dans eden kağıt, parıldıyor{\i}
+Dialogue: 0,0:22:21.55,0:22:24.05,Default,,0,0,0,,{\i1}Bu yolda pek çok başarısızlık yaşadım{\i}
+Dialogue: 0,0:22:24.22,0:22:25.14,Default,,0,0,0,,{\i1}Bu doğru{\i}
+Dialogue: 0,0:22:25.30,0:22:27.05,Default,,0,0,0,,{\i1}Parmak uçlarımda, dik duruyorum{\i}
+Dialogue: 0,0:22:27.22,0:22:31.10,Default,,0,0,0,,{\i1}Manzara, burkulmadan daha önemli{\i}
+Dialogue: 0,0:22:31.27,0:22:34.81,Default,,0,0,0,,{\i1}Acının beni yenebileceğini mi sandın?{\i}
+Dialogue: 0,0:22:34.98,0:22:39.15,Default,,0,0,0,,{\i1}Günde üç öğün, onu yiyorum zaten{\i}
+Dialogue: 0,0:22:39.32,0:22:41.24,Default,,0,0,0,,{\i1}Şiddetli rüzgâr yeniden esmeye başlıyor{\i}
+Dialogue: 0,0:22:41.40,0:22:43.07,Default,,0,0,0,,{\i1}Çok fazla sorun yolumda{\i}
+Dialogue: 0,0:22:43.24,0:22:46.03,Default,,0,0,0,,{\i1}Odaklanma zamanı{\i}
+Dialogue: 0,0:22:46.32,0:22:48.16,Default,,0,0,0,,{\i1}Yemin ederim\Nbüyük umutlar var{\i}
+Dialogue: 0,0:22:48.33,0:22:51.08,Default,,0,0,0,,{\i1}Yakın gelecekte tamamlanmış olucam{\i}
+Dialogue: 0,0:22:51.25,0:22:53.08,Default,,0,0,0,,{\i1}Her geçen gün giderek artan bir varlık{\i}
+Dialogue: 0,0:22:53.25,0:22:54.62,Default,,0,0,0,,{\i1}İşte kanıtı{\i}
+Dialogue: 0,0:22:54.79,0:22:58.84,Default,,0,0,0,,{\i1}Hayatım ortalığı kasıp kavuracak{\i}
+Dialogue: 0,0:22:59.00,0:23:01.46,Default,,0,0,0,,{\i1}Yapamayacağım hiçbir şey yok{\i}
+Dialogue: 0,0:23:01.63,0:23:02.92,Default,,0,0,0,,{\i1}Mükemmelliğin zirvesi{\i}
+Dialogue: 0,0:23:05.18,0:23:06.72,Default,,0,0,0,,{\i1}Mükemmelliğin zirvesi{\i}
+Dialogue: 0,0:23:07.09,0:23:08.60,Default,,0,0,0,,{\i1}Mükemmellik!{\i}
+Dialogue: 0,0:23:11.43,0:23:12.60,On Top,,0,0,0,,SONRAKİ BÖLÜM
+Dialogue: 0,0:23:12.77,0:23:15.56,On Top,,0,0,0,,YOK EDİCİ TANRI,\N KAI'NİN GEZEGENİNE GİDİYOR
