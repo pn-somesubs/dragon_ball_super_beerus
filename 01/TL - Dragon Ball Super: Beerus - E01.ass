@@ -19,7 +19,7 @@ Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:10.00,Default,,0,0,0,,{\fs15\an7\fe162\b\fad(400,400)\bord6\blur6\shad\4c&H000000&\4a&HFF&}\N\N{\pos(20,-6)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(180,189)}{\c&HFFFFFF&}Çevirmen:{\c&0000000&\3c&HFFFFFF&} The_Ghost01\N {\pos(180,333)\3c&H000000&}{\c&HFFFFFF&}Encode: V{\c&HE6E6E6&}e{\c&HCDCDCD&}l{\c&HB4B4B4&}n{\c&H9B9B9B&}o{\c&H828282&}x{\c&H696969&}y\N{\pos(180,333)\3c&H000000&\3a&H00&}{\c&HFFFFFF&}Redaktör: V{\c&HE6E6E6&}e{\c&HCDCDCD&}l{\c&HB4B4B4&}n{\c&H9B9B9B&}o{\c&H828282&}x{\c&H696969&}y\N{\c&HFFFFFF&\3c&H000000&\3a&H00&}{\c&HFFFFFF&} Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:00:00.00,0:00:10.00,Default,,0,0,0,,{\fs18\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}\NSomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} The_Ghost01\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&}  Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Itsu\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub \N
 Dialogue: 0,0:00:15.02,0:00:16.77,Default,,0,0,0,,{\i1}Şimdi{\i}
 Dialogue: 0,0:00:16.93,0:00:18.89,Default,,0,0,0,,{\i1}Asla kaybetme!\NKaybetmem{\i}
 Dialogue: 0,0:00:19.06,0:00:21.27,Default,,0,0,0,,{\i1}"Sadece biraz daha" dedim{\i}
@@ -56,21 +56,21 @@ Dialogue: 0,0:02:55.47,0:02:56.72,Default,,0,0,0,,Tabii...
 Dialogue: 0,0:02:57.68,0:02:59.39,Default,,0,0,0,,Gömülelim o zaman.
 Dialogue: 0,0:03:09.44,0:03:11.15,Default,,0,0,0,,Harbi lezizdi!\NDoydum!
 Dialogue: 0,0:03:11.32,0:03:12.32,Default,,0,0,0,,Tamamdır!
-Dialogue: 0,0:05:47.76,0:05:52.48,Default,,0,0,0,,Goten, eğer uslu durmazsan \N antremanıma odaklanamam ama.
-Dialogue: 0,0:05:53.48,0:05:55.31,Default,,0,0,0,,Sen antreman mı yapıyodun ki baba?
+Dialogue: 0,0:05:47.76,0:05:52.48,Default,,0,0,0,,Goten, eğer uslu durmazsan \N antrenmanıma odaklanamam ama.
+Dialogue: 0,0:05:53.48,0:05:55.31,Default,,0,0,0,,Sen antrenman mı yapıyordun ki baba?
 Dialogue: 0,0:05:55.48,0:05:59.11,Default,,0,0,0,,Evet.\NMajin Buu fenasal güçlüydü, değil mi?
 Dialogue: 0,0:05:59.73,0:06:02.53,Default,,0,0,0,,{\i1}Tek başıma onu yenemezdim.{\i}
 Dialogue: 0,0:06:03.11,0:06:05.78,Default,,0,0,0,,Onun gibi başka biri \N yine karşıma çıkabilir.
 Dialogue: 0,0:06:05.95,0:06:08.91,Default,,0,0,0,,Bunun için hazırlıklı olmam lazım.
 Dialogue: 0,0:06:09.08,0:06:10.16,Default,,0,0,0,,Hmm...
 Dialogue: 0,0:06:11.91,0:06:13.12,Default,,0,0,0,,Doğruyu söylemem gerekirse...
-Dialogue: 0,0:06:13.29,0:06:16.17,Default,,0,0,0,,Kai-sama'nın yerinde \N antreman yapmak istiyorum,
+Dialogue: 0,0:06:13.29,0:06:16.17,Default,,0,0,0,,Kai-sama'nın yerinde \N antrenman yapmak istiyorum,
 Dialogue: 0,0:06:16.33,0:06:18.00,Default,,0,0,0,,{\i1}ama Chichi...{\i}
 Dialogue: 0,0:06:18.17,0:06:21.30,Default,,0,0,0,,{\i1}Annem dünyadaki en güçlü kişi olmalı.{\i}
 Dialogue: 0,0:06:21.46,0:06:26.89,Default,,0,0,0,,Dede Gyumao bütün hazinesini ateşte \N kaybettiğinden beri, fazla bir parası yok.
-Dialogue: 0,0:06:27.05,0:06:32.23,Default,,0,0,0,,Ama Annem başka bir işte \N daha fazla para kazanabileceğini söyledi.
+Dialogue: 0,0:06:27.05,0:06:32.23,Default,,0,0,0,,Ama annem başka bir işte \N daha fazla para kazanabileceğini söyledi.
 Dialogue: 0,0:06:32.93,0:06:34.23,Default,,0,0,0,,{\i1}Bay Satan gibi.{\i}
-Dialogue: 0,0:06:38.52,0:06:42.86,Default,,0,0,0,,Kaytarmayı ve antreman yapmayı y
+Dialogue: 0,0:06:38.52,0:06:42.86,Default,,0,0,0,,Böyle kaytararak antrenman\N yapmaya bayılıyorum ya!
 Dialogue: 0,0:07:15.00,0:07:18.00,Default,,0,0,0,,{\an8}{\i1}ÇN: Adam geldi adam.{\i}
 Dialogue: 0,0:07:33.33,0:07:35.46,Default,,0,0,0,,Selamlar, Goku-san!
 Dialogue: 0,0:07:35.62,0:07:38.38,Default,,0,0,0,,Chichi-san bana sizi burada \N bulabileceğimi söyledi.
@@ -85,7 +85,7 @@ Dialogue: 0,0:08:04.48,0:08:05.65,Default,,0,0,0,,Dünya...?
 Dialogue: 0,0:08:05.82,0:08:10.12,Default,,0,0,0,,Çünkü, bilirsin,\N Dünyayı kurtarıp durdum...
 Dialogue: 0,0:08:10.28,0:08:15.25,Default,,0,0,0,,Bende özel bir hediye aldım.\N100 milyon Zeni.
 Dialogue: 0,0:08:15.41,0:08:18.87,Default,,0,0,0,,{\i1}Ama bu para tamamen senin.{\i}
-Dialogue: 0,0:08:19.04,0:08:21.58,Default,,0,0,0,,Yanlız savaşmadım.
+Dialogue: 0,0:08:19.04,0:08:21.58,Default,,0,0,0,,Yalnız ben savaşmadım.
 Dialogue: 0,0:08:21.75,0:08:24.96,Default,,0,0,0,,{\i1}Sende olabilidiğince savaştın.{\i}
 Dialogue: 0,0:08:25.13,0:08:27.30,Default,,0,0,0,,Ama ben zaten zenginim.
 Dialogue: 0,0:08:27.84,0:08:30.18,Default,,0,0,0,,Vegeta-san'da bana sırtını döndü zaten.
@@ -95,7 +95,7 @@ Dialogue: 0,0:08:38.60,0:08:43.86,Default,,0,0,0,,Ne? 100,000 Zeni mi?\NBir baka
 Dialogue: 0,0:08:44.02,0:08:47.15,Default,,0,0,0,,Bin tane mi?!\NBin tane 100,000 Zeni?
 Dialogue: 0,0:08:47.32,0:08:50.99,Default,,0,0,0,,Gerçekten lazım değil.\NBu çok fazla miktarda bir para.
 Dialogue: 0,0:08:51.16,0:08:52.49,Default,,0,0,0,,Bence almalısın.
-Dialogue: 0,0:08:53.58,0:08:59.46,Default,,0,0,0,,Eğer alırsan, eminim ki Annem sana Kai-sama'larda antreman yapmana izin verir.
+Dialogue: 0,0:08:53.58,0:08:59.46,Default,,0,0,0,,Eğer alırsan, eminim ki annem sana Kai-sama'larda antreman yapmana izin verir.
 Dialogue: 0,0:08:59.62,0:09:00.92,Default,,0,0,0,,Harbiden mi?
 Dialogue: 0,0:09:02.54,0:09:04.09,Default,,0,0,0,,Ama...
 Dialogue: 0,0:09:09.55,0:09:11.05,Default,,0,0,0,,Peki, anladım!
@@ -162,7 +162,7 @@ Dialogue: 0,0:14:09.31,0:14:14.31,Default,,0,0,0,,Antreman seviyesi 1... 2... 3.
 Dialogue: 0,0:14:15.52,0:14:16.52,Default,,0,0,0,,Başla!
 Dialogue: 0,0:14:36.17,0:14:37.50,Default,,0,0,0,,{\i1}Kakarot...{\i}
 Dialogue: 0,0:14:40.84,0:14:44.51,Default,,0,0,0,,{\i1}Şu ana kadar karşılaştığım en güçlü Saiyan!{\i}
-Dialogue: 0,0:14:45.18,0:14:47.10,Default,,0,0,0,,{\i1}Ama ben dinle, Kakarot...{\i}
+Dialogue: 0,0:14:45.18,0:14:47.10,Default,,0,0,0,,{\i1}Dinle, Kakarot...{\i}
 Dialogue: 0,0:14:47.26,0:14:52.68,Default,,0,0,0,,{\i1}Sonsuza dek ikinci sırada \N kalmaya niyetim yok!{\i}
 Dialogue: 0,0:14:52.85,0:14:55.44,Default,,0,0,0,,{\i1}Bir gün seni geçicem...{\i}
 Dialogue: 0,0:14:55.60,0:15:00.02,Default,,0,0,0,,Hayır, bu evrendeki herkesi geçicem...
@@ -179,8 +179,8 @@ Dialogue: 0,0:16:57.56,0:17:00.90,Default,,0,0,0,,Beerus-sama bana sadece 3 daki
 Dialogue: 0,0:17:01.77,0:17:04.40,Default,,0,0,0,,Ama sadece 2 dakika 20 saniye geçti.
 Dialogue: 0,0:17:05.15,0:17:10.32,Default,,0,0,0,,Gerçekten mi? Bana sanki 220 sene \N bekliyormuşum gibi geldi.
 Dialogue: 0,0:17:10.49,0:17:16.16,Default,,0,0,0,,Uyandığınızdan beri bi huysuzsunuz.\N Sorun nedir?
-Dialogue: 0,0:17:16.33,0:17:21.17,Default,,0,0,0,,Dinazor etitinin lezzetli olduğu \N sadece bir efsane.
-Dialogue: 0,0:17:21.33,0:17:24.46,Default,,0,0,0,,Yinede denemek istiyorum.
+Dialogue: 0,0:17:16.33,0:17:21.17,Default,,0,0,0,,Dinazor etinin lezzetli olduğu \N sadece bir efsane.
+Dialogue: 0,0:17:21.33,0:17:24.46,Default,,0,0,0,,Yine de denemek istiyorum.
 Dialogue: 0,0:17:24.63,0:17:28.51,Default,,0,0,0,,Tadı oldukça keskin \N olur diye düşünüyorum.
 Dialogue: 0,0:17:29.76,0:17:34.97,Default,,0,0,0,,Bana rüyamdaki adamı \N görmemde yardımcı olabilir.
 Dialogue: 0,0:17:35.14,0:17:36.18,Default,,0,0,0,,Rüya mı?
@@ -192,10 +192,10 @@ Dialogue: 0,0:18:25.52,0:18:27.19,Default,,0,0,0,,Çok sıkıcısın.
 Dialogue: 0,0:18:35.45,0:18:36.49,Default,,0,0,0,,Aman aman.
 Dialogue: 0,0:18:43.66,0:18:44.96,Default,,0,0,0,,Aynen iadesi yapıldı.
 Dialogue: 0,0:18:51.67,0:18:52.84,Default,,0,0,0,,Bitirdiniz mi?
-Dialogue: 0,0:18:53.22,0:18:56.43,Default,,0,0,0,,Görgüsü olmayanlar insanlardan nefret ederim.
+Dialogue: 0,0:18:53.22,0:18:56.43,Default,,0,0,0,,Görgüsüz insanlardan nefret ederim.
 Dialogue: 0,0:18:56.59,0:18:59.22,Default,,0,0,0,,Şimdi, ne diyordum?
 Dialogue: 0,0:18:59.76,0:19:02.43,Default,,0,0,0,,Rüyanızda gördüğünüz ama sonra \N unuttuğunuz kişi hakkında.
-Dialogue: 0,0:19:02.60,0:19:06.02,Default,,0,0,0,,Doğru. Neredeyse hatırlıyacağım.
+Dialogue: 0,0:19:02.60,0:19:06.02,Default,,0,0,0,,Doğru. Neredeyse hatırlayacağım.
 Dialogue: 0,0:19:06.52,0:19:12.53,Default,,0,0,0,,Çok rahatsız edici hissettiriyor.\N Sanki arka dişime bir şey sıkışmış gibi.
 Dialogue: 0,0:19:12.69,0:19:16.99,Default,,0,0,0,,Sanki kulak kirim derinliklerde \N sürekli hışırtı yapıyormuş gibi.
 Dialogue: 0,0:19:12.69,0:19:16.99,Default,,0,0,0,,{\an8}{\i1} ÇN: O nasıl bir benzetme amk. İğrenç...{\i}
@@ -218,7 +218,7 @@ Dialogue: 0,0:21:20.78,0:21:23.28,Default,,0,0,0,,Süper Saiyan Tanrı!
 Dialogue: 0,0:21:23.45,0:21:26.87,Default,,0,0,0,,Süper Saiyan... Tanrı?
 Dialogue: 0,0:21:27.04,0:21:27.83,Default,,0,0,0,,Ha?
 Dialogue: 0,0:21:28.29,0:21:31.37,Default,,0,0,0,,Vay... vay...
-Dialogue: 0,0:21:31.54,0:21:34.63,Default,,0,0,0,,Belki. Belki değil.
+Dialogue: 0,0:21:31.54,0:21:34.63,Default,,0,0,0,,Belki,ya da belki de değil.
 Dialogue: 0,0:21:34.79,0:21:36.13,Default,,0,0,0,,Hadi bakalım...
 Dialogue: 0,0:21:36.63,0:21:40.47,Default,,0,0,0,,Kalede akşam yemeği yerken \N hatırlamaya çalışırsınız artık.
 Dialogue: 0,0:21:40.63,0:21:42.05,Default,,0,0,0,,İyi fikir.
